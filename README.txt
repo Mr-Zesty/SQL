@@ -1,0 +1,1 @@
+This repository contains my SQL practice projects from Codecademy.
